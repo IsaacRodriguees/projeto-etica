@@ -38,6 +38,18 @@ main{
     background-color: #fff;
     box-shadow: 3 3px 3px rgb(100, 210, 230)
 }
+h1{
+    margin-left: 135px;
+    font-size: 35px;
+}
+p{
+    font-size: 25px;
+    padding: 10px;
+}
+.img-etica{
+    width: 425px;
+    height: 322px;
+}
 section{
     border: 1px solid red;
     height: 420px;
